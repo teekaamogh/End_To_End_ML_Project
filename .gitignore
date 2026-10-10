@@ -10,8 +10,6 @@ __pycache__/
 # Virtual Environments
 # =========================
 
-.artifacts/
-.artifacts
 venv/
 env/
 .venv/
